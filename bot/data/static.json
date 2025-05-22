@@ -1,0 +1,15 @@
+{
+  "topics": [
+    "age","alone","amusing","anger","architecture","art","attitude",
+    "beauty","best","birthday","business","car","change","communications",
+    "computers","cool","courage","courtesy","dad","dating","death",
+    "design","dreams","education","envy","experience","failure","faith"
+  ],
+  "authors": [
+    {"_id":"albert-einstein","name":"Albert Einstein"},
+    {"_id":"marilyn-monroe","name":"Marilyn Monroe"},
+    {"_id":"oscar-wilde","name":"Oscar Wilde"},
+    {"_id":"mahatma-gandhi","name":"Mahatma Gandhi"},
+    {"_id":"mark-twain","name":"Mark Twain"}
+  ]
+}
