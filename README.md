@@ -98,7 +98,7 @@
 
 ## Интеграция «новинки»
 
-- Полный отчёт об интеграции и мотивации выбора Google Analytics в [ANALYTICS.md](ANALYTICS.md).
+- Полный отчёт об интеграции и мотивации выбора Google Analytics в [ANALYTICS.md](README_ANALYTICS.md).
 
 
 ## Дополнительные идеи по функционалу бота
