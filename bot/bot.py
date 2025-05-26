@@ -39,7 +39,6 @@ async def on_startup() -> None:
     logger.info("Запуск GenQuoteBot…")
     await bot.set_my_commands([
         BotCommand(command="start", description="Запустить меню"),
-        BotCommand(command="quote", description="Случайная цитата")
     ])
     logger.info("Команды подключены")
 
